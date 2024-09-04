@@ -1,0 +1,16 @@
+..\..\output\atk_frec.o: ..\..\User\ATKFREC\atk_frec.c
+..\..\output\atk_frec.o: ..\..\User\ATKFREC\atk_frec.h
+..\..\output\atk_frec.o: ..\..\Middlewares\MALLOC\malloc.h
+..\..\output\atk_frec.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\atk_frec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\atk_frec.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\atk_frec.o: ..\..\Middlewares\FATFS\source\ff.h
+..\..\output\atk_frec.o: ..\..\Middlewares\FATFS\source\ffconf.h
+..\..\output\atk_frec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

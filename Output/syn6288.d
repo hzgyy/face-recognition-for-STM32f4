@@ -1,0 +1,16 @@
+..\..\output\syn6288.o: ..\..\User\SYN6288\syn6288.c
+..\..\output\syn6288.o: ..\..\User\SYN6288\syn6288.h
+..\..\output\syn6288.o: ..\..\Drivers\SYSTEM\sys\sys.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\syn6288.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\syn6288.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\syn6288.o: ..\..\Drivers\./BSP/USART2/usart2.h
+..\..\output\syn6288.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\syn6288.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\syn6288.o: ..\..\Drivers\SYSTEM\delay\delay.h

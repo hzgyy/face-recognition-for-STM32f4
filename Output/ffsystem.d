@@ -1,0 +1,14 @@
+..\..\output\ffsystem.o: ..\..\Middlewares\FATFS\source\ffsystem.c
+..\..\output\ffsystem.o: ..\..\Middlewares\./MALLOC/malloc.h
+..\..\output\ffsystem.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\ffsystem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\ffsystem.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\ffsystem.o: ..\..\Middlewares\./FATFS/source/ff.h
+..\..\output\ffsystem.o: ..\..\Middlewares\./FATFS/source/ffconf.h

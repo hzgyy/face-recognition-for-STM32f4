@@ -1,0 +1,16 @@
+..\..\output\sdio_sdcard.o: ..\..\Drivers\BSP\SDIO\sdio_sdcard.c
+..\..\output\sdio_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\sdio_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\sdio_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\./SYSTEM/delay/delay.h
+..\..\output\sdio_sdcard.o: ..\..\Drivers\./BSP/SDIO/sdio_sdcard.h

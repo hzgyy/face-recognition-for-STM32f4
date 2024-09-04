@@ -1,0 +1,16 @@
+..\..\output\dcmi.o: ..\..\Drivers\BSP\DCMI\dcmi.c
+..\..\output\dcmi.o: ..\..\Drivers\./BSP/LED/led.h
+..\..\output\dcmi.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\dcmi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\dcmi.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\dcmi.o: ..\..\Drivers\./BSP/LCD/lcd.h
+..\..\output\dcmi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\dcmi.o: ..\..\Drivers\./BSP/DCMI/dcmi.h
+..\..\output\dcmi.o: ..\..\Drivers\./BSP/OV2640/ov2640.h
